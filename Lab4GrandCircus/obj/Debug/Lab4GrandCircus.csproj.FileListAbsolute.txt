@@ -1,0 +1,7 @@
+C:\Users\An Image of God\source\repos\Lab4-Grand-Circus\Lab4GrandCircus\bin\Debug\Lab4GrandCircus.exe.config
+C:\Users\An Image of God\source\repos\Lab4-Grand-Circus\Lab4GrandCircus\bin\Debug\Lab4GrandCircus.exe
+C:\Users\An Image of God\source\repos\Lab4-Grand-Circus\Lab4GrandCircus\bin\Debug\Lab4GrandCircus.pdb
+C:\Users\An Image of God\source\repos\Lab4-Grand-Circus\Lab4GrandCircus\obj\Debug\Lab4GrandCircus.csprojAssemblyReference.cache
+C:\Users\An Image of God\source\repos\Lab4-Grand-Circus\Lab4GrandCircus\obj\Debug\Lab4GrandCircus.csproj.CoreCompileInputs.cache
+C:\Users\An Image of God\source\repos\Lab4-Grand-Circus\Lab4GrandCircus\obj\Debug\Lab4GrandCircus.exe
+C:\Users\An Image of God\source\repos\Lab4-Grand-Circus\Lab4GrandCircus\obj\Debug\Lab4GrandCircus.pdb
